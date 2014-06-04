@@ -11,4 +11,4 @@ If you'd like to add to this, please fork the repo, update and submit a pull req
 * [meetups](./meetups) - Folder containing the info about each meetup.
 
 # Meetup Info / Notes
-* [6/6/2014](meetups/2014_June.md) - End to End testing with Protractor [Meetup Link](http://www.meetup.com/RockyMountainAngularJS/events/182618962/?comment_table_id=363577152&comment_table_name=event_comment)
+* [6/3/2014](meetups/2014_June.md) - End to End testing with Protractor [Meetup Link](http://www.meetup.com/RockyMountainAngularJS/events/182618962/?comment_table_id=363577152&comment_table_name=event_comment)
