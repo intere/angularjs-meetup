@@ -1,43 +1,14 @@
 angularjs-meetup
 ================
 
-Repo with info about AngularJS Meetups
+Repo with notes and info about AngularJS Meetups.
 
-#6/6/2014#
+If you'd like to add to this, please fork the repo, update and submit a pull request.  You can email me at **intere** [at] **gmail.com** with ideas.
 
-We had a discussion about potential presentation topics, formats, hackathons, etc.  Here are the notes that Brian was so kind to take down and email me.
+# Structure
+* README.md - this file, notes, ideas, info about the meetups.
+* [UsefulLinks.md](UsefulLinks.md) - A collection of useful links related to AngularJS and stuff we can do with AngularJS.
+* [meetups](./meetups) - Folder containing the info about each meetup.
 
-## AngularJs Meetup Topics
-
-- Angular 2.0
-- Custom Directives
-- requirejs & Angular browserify
-- SEO
-- Firebase
-- EcmaScript 6 and Angular
-	- Traceur Compiler
-- Applying Angular to a full stack system, MEAN
-
-## Lightning Talks
-
-- Zones
-- Deployment scalability
-- UI Router
-- Directive Wrappers for 3rd party libraries
-
-## Format
-
-### Hackathon
-
-- Spheros
-
-### Show and Tell
-- 5/10 minute lightning demos
-
-### Beginner Talks
-
-- Directives 101
-- Testing with Jasmine
-- Scope/Scope Soup
-
-Angularjs Basics for the non Programmers.
+# Meetup Info / Notes
+* [6/6/2014](meetups/2014_June.md) - End to End testing with Protractor [Meetup Link](http://www.meetup.com/RockyMountainAngularJS/events/182618962/?comment_table_id=363577152&comment_table_name=event_comment)
