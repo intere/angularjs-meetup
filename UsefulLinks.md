@@ -6,9 +6,18 @@ Useful Angular Links
 * [Angular Cheat sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/?utm_content=buffer4b85c&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 # Beginner Topics
-...
+* [Understanding Promises in Angular](http://www.tweetganic.com/a/217096)
+
+## Examples ##
+* [Building a Bitcoin Calculator](https://github.com/mjhea0/thinkful-angular)
+
+
+# Useful Components
+* [Angular Table](http://www.tweetganic.com/a/224928)
 
 # Advanced Topics
+## Integration Testing
+* [End to End Testing with Protractor](http://ramonvictor.github.io/protractor/slides)
 ## SEO
 * [AngularJS & SEO](http://www.yearofmoo.com/2012/11/angularjs-and-seo.html)
 
