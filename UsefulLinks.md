@@ -10,7 +10,7 @@ Useful Angular Links
 
 ## Examples ##
 * [Building a Bitcoin Calculator](https://github.com/mjhea0/thinkful-angular)
-
+* [Create a TV Show Tracker](http://www.tweetganic.com/a/225759)
 
 # Useful Components
 * [Angular Table](http://www.tweetganic.com/a/224928)
