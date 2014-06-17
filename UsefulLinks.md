@@ -14,6 +14,7 @@ Useful Angular Links
 
 # Useful Components
 * [Angular Table](http://www.tweetganic.com/a/224928)
+* [Angular Modal](http://www.dwmkerr.com/the-only-angularjs-modal-service-youll-ever-need/)
 
 # Advanced Topics
 ## Integration Testing
